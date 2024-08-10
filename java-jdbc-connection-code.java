@@ -1,9 +1,9 @@
 import java.sql.*;
 
 public class StudentCRUD {
-    private static final String URL = "jdbc:mysql://localhost:3306/school";
-    private static final String USER = "root";
-    private static final String PASSWORD = "Riya@2003";
+    private static final String URL = "jdbc:mysql://localhost:3306/database_name";
+    private static final String USER = user-name;
+    private static final String PASSWORD = your password ;
 
     // JDBC variables for opening and managing connection
     private static Connection connection;
